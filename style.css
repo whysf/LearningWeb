@@ -41,30 +41,30 @@ img{
 }
 .txt1{
    grid-area: first ; 
-   background-color: red;
+   background-color: lightcoral;
 }
 .txt2{
     grid-area: second ;
-    background-color: blueviolet;
+    background-color: lightgrey;
 
 }
 .txt3{
     grid-area: third ;
-    background-color: yellow;
+    background-color: lightyellow;
 
 }
 .txt4{
     grid-area: fourth ;
-    background-color: orange;
+    background-color: lightgoldenrodyellow;
 
 }
 .txt5{
     grid-area: khmsa ; 
-    background-color: red;
+    background-color: lightskyblue;
  }
  .txt6{
      grid-area: sta ;
-     background-color: green;
+     background-color: lightsteelblue;
  
  }
  .txt7{
