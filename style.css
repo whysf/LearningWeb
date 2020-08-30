@@ -3,7 +3,7 @@
     left: 50%;
     transform: translateX(-50%);
     display: grid;
-    width: 1000px;
+    width: 400px;
     height: 5000px;
     background-color: white;
     grid-template-columns: [first] 1fr [second] 1fr [third] 1fr [fourth];
